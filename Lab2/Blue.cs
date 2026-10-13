@@ -67,6 +67,7 @@ namespace Lab2
         sum += term;
         term += h;
         answer++;
+    }
             // end
 
             return answer;
