@@ -56,9 +56,7 @@ namespace Lab2
         }
         public int Task4(int a, int h, int L)
         {
-            int answer = 0;
 
-            // code here
             int answer = 0;
     // code here
     int sum = 0, term = a;
@@ -96,8 +94,6 @@ namespace Lab2
         {
             int answer = 0;
 
-            // code here
-            int answer = 0;
     // code here
     long cells = S;
     while (cells < L)
